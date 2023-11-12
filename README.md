@@ -1,2 +1,2 @@
 # projecto-final-BCD
-Este repositorio es un proyecto final para el Bootcamp de Ciencia de Datos 3ra generación de la plataforma CódigoFacilito 3
+Este repositorio es un proyecto final para el Bootcamp de Ciencia de Datos 3ra generación de la plataforma CódigoFacilito
